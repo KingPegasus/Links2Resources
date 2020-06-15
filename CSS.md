@@ -4,3 +4,5 @@
 - [Animation Using CSS Transforms](https://www.the-art-of-web.com/css/css-animation/)
 - [Setting Backgrounds & Gradients](https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/)
 - [A collection of pens using the Matter.js physics engine](https://codepen.io/collection/Fuagy)
+- [20 Cool Things You Won’t Believe Were Built Using CSS](https://www.hongkiat.com/blog/built-with-css/)
+
