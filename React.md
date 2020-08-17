@@ -9,3 +9,4 @@
 - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 - [cross-fetch: Universal WHATWG Fetch API for Node, Browsers and React Native](https://github.com/lquixada/cross-fetch)
 - [webpack: static module bundler for modern JavaScript applications](https://webpack.js.org/concepts/)
+- [Front-End Web Development with React - Coursera](https://www.coursera.org/learn/front-end-react/home/welcome)
