@@ -6,4 +6,8 @@
 - [A collection of pens using the Matter.js physics engine](https://codepen.io/collection/Fuagy)
 - [20 Cool Things You Won’t Believe Were Built Using CSS](https://www.hongkiat.com/blog/built-with-css/)
 - [12 Awesome CSS3 Features That You Can Finally Start Using](https://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use)
-
+- [Two Point Range Slider](https://codepen.io/jackiejohnston/pen/NNrpjQ)
+- [Breadcrumb Navigation: a Guide to Types, Benefits and Best Practices](https://www.woorank.com/en/blog/breadcrumb-navigation-a-guide-to-types-benefits-and-best-practices)
+- [Responsive Web Design Tips from Bootstrap's CSS](https://www.sitepoint.com/responsive-web-design-tips-bootstrap-css/)
+- [Web Design Basics: Rem vs. Em vs. Px — Sizing Elements In CSS](https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/)
+- [50 Examples of Responsive Web Design (plus 1)](https://www.awwwards.com/50-examples-of-responsive-web-design.html)
